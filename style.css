@@ -177,6 +177,7 @@ nav {
 
     .links li{margin-top: 20px;}
     .links li a{padding: 10px;}
+    .name{text-align:left; margin-left: -480px; font-size: larger;}
     .open, .close{display: block;}
     #check:checked ~ .links{top: 0;}
 }
