@@ -20,9 +20,7 @@ nav {
     background-color: #e74c3c;
     margin-top: -60px;
 }
-.name{
-    text-align:left;
-}
+
 .links {
     list-style: none;
     display: flex;
