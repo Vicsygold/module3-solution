@@ -11,7 +11,7 @@ body {
 nav {
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: right;
     padding: 10px 0;
     position: absolute;
     z-index: 1; /* Change z-index to bring the menu bar to the forefront */
@@ -20,7 +20,11 @@ nav {
     background-color: #e74c3c;
     margin-top: -60px;
 }
-
+.name{
+    text-align: left;
+    margin-left: -300px; 
+    /* font-size: larger; */
+}
 
 .links {
     list-style: none;
